@@ -24,3 +24,6 @@
 # Extra credit: Link your Heroku deployed app
     
     I will do it when I get time.
+
+reop:
+    https://github.com/rails-decal/fa19-proj1-haitao412.git
